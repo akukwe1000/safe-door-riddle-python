@@ -1,5 +1,3 @@
-#bweek 3 assignment 111111111111111111111111111111 11111111111111111111111111111111111111
-
 # my creativity was added first on line 32 where u need to type only an even number to unlock the last door  if u took the fire door
 # another one was on line 57 where u need to type only an odd number to unlock the last door if u take the elcetric door
 # another one was on line 82 where u need to type only a multiple of 5 to unlock the last door if u take the poisonous gas door

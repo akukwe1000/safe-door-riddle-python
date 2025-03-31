@@ -7,7 +7,7 @@ def temConvertor(C):
     return (C * 9/5) + 32
 
 quest = int(input('What is the temperature? '))
-unit = input('Fahrenheit or Celsius (F/C)? ').upper()  # Correct case conversion
+unit = input('Fahrenheit or Celsius (F/C)? ').upper()  
 
 # Iterate through wind speeds from 5 to 60 mph, in steps of 5
 for V in range(5, 61, 5):
